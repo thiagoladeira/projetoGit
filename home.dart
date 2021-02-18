@@ -1,1 +1,5 @@
-class Home {}
+class Home {
+  String nome() {
+    return 'Thiago Ladeira';
+  }
+}
